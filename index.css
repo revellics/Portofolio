@@ -33,6 +33,7 @@ body {
 
 .linkTitolo{
     color: black;
+    text-decoration: none;
 }
 
 /* ── NAV ── */
